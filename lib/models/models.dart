@@ -1,0 +1,1 @@
+export 'package:band_names_app/models/band_model.dart';
